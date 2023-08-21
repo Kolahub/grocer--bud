@@ -182,6 +182,4 @@ function createListItem(id, value) {
 
   // append child
   list.appendChild(element);
-} 
-
-
+}
